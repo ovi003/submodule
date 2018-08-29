@@ -1,3 +1,6 @@
 [submodule "gulp"]
 	path = gulp
 	url = https://github.com/ovi003/gulp.git
+[submodule "titan"]
+	path = titan
+	url = https://github.com/ovi003/titan.git
